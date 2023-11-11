@@ -1,0 +1,15 @@
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\MainWindow.g.cs
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\App.g.cs
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4_MarkupCompile.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4_MarkupCompile.lref
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\MainWindow.baml
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.g.resources
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\Lab4\Lab4\obj\Debug\Lab4.pdb

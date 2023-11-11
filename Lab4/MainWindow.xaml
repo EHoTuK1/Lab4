@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Математический квест" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Математический квест" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" />
+        <DockPanel Grid.Row="1" HorizontalAlignment="Center" Margin="10" Height="30" VerticalAlignment="Center">
+            <TextBlock Text="Введите количество вопросов:" VerticalAlignment="Center"/>
+            <Separator Opacity="0" Width="10"/>
+            <TextBox x:Name="QuestionCountTB" Width="100" VerticalAlignment="Center">
+                
+            </TextBox>
+        </DockPanel>
+        <Button Grid.Row="2" Content="Начать тест" Width="200" Height="50"/>
     </Grid>
 </Window>

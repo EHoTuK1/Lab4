@@ -1,0 +1,15 @@
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Прог. Ч2\WpfApp1\obj\Debug\WpfApp1.pdb
